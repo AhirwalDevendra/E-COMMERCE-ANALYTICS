@@ -9,7 +9,7 @@
 This project is an end-to-end Power BI analytics dashboard 
 built on a real-world e-commerce dataset. The dataset spans 
 7 related tables including Orders, OrderDetails, Products, 
-Customers, Suppliers, Shippers, and Payments — connected 
+Customers, Suppliers, Shippers, and Payments connected 
 through a star schema with a bridge table relationship between 
 Suppliers and Orders resolved using bidirectional cross-filtering.
 
@@ -20,7 +20,7 @@ The dashboard is designed around three core business questions:
   3. Which suppliers and shippers are hurting our delivery performance?
 
 Each question maps to one dashboard page, and every visual is 
-built to drive a specific business decision — not just display data.
+built to drive a specific business decision not just display data.
 
 ---
 
