@@ -1,3 +1,11 @@
+# 📊 E-Commerce Analytics Dashboard (Power BI)
+
+## 🔗 Live Dashboard
+👉 https://app.powerbi.com/view?r=eyJrIjoiNjg1ZmRiZTItODA1My00NTI1LWFhNWItNzE1NzAwMjY1NzMyIiwidCI6IjMxMWE4ZTI1LWE0YzEtNDAwOC04YTA3LTgzMTk2YWI1ZDU0MiJ9
+
+---
+
+## 📌 Project Overview
 This project is an end-to-end Power BI analytics dashboard 
 built on a real-world e-commerce dataset. The dataset spans 
 7 related tables including Orders, OrderDetails, Products, 
@@ -13,17 +21,6 @@ The dashboard is designed around three core business questions:
 
 Each question maps to one dashboard page, and every visual is 
 built to drive a specific business decision — not just display data.
-
-# 📊 E-Commerce Analytics Dashboard (Power BI)
-
-## 🔗 Live Dashboard
-👉 https://app.powerbi.com/view?r=eyJrIjoiNjg1ZmRiZTItODA1My00NTI1LWFhNWItNzE1NzAwMjY1NzMyIiwidCI6IjMxMWE4ZTI1LWE0YzEtNDAwOC04YTA3LTgzMTk2YWI1ZDU0MiJ9
-
----
-
-## 📌 Project Overview
-This project is an **end-to-end E-Commerce Analytics Dashboard** built using **Power BI**.  
-It provides insights into **Sales, Customers, and Operations** to support data-driven decision-making.
 
 ---
 
